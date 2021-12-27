@@ -1,0 +1,4 @@
+# ninja log v5
+1	11814	1640581612035130728	/home/ddl/git/detectron2/projects/TensorMask/build/temp.linux-x86_64-3.7/home/ddl/git/detectron2/projects/TensorMask/tensormask/layers/csrc/vision.o	c0cbb6fd13f2edf2
+2	7676	1640595519755835279	/home/ddl/git/detectron2/projects/TensorMask/build/temp.linux-x86_64-3.7/home/ddl/git/detectron2/projects/TensorMask/tensormask/layers/csrc/SwapAlign2Nat/SwapAlign2Nat_cuda.o	c3a3b0921c10adc5
+2	11489	1640595523571854617	/home/ddl/git/detectron2/projects/TensorMask/build/temp.linux-x86_64-3.7/home/ddl/git/detectron2/projects/TensorMask/tensormask/layers/csrc/vision.o	5f32ba012e4caf80

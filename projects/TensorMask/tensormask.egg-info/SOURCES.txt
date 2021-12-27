@@ -1,0 +1,13 @@
+README.md
+setup.py
+/home/ddl/git/detectron2/projects/TensorMask/tensormask/layers/csrc/vision.cpp
+/home/ddl/git/detectron2/projects/TensorMask/tensormask/layers/csrc/SwapAlign2Nat/SwapAlign2Nat_cuda.cu
+tensormask/__init__.py
+tensormask/arch.py
+tensormask/config.py
+tensormask.egg-info/PKG-INFO
+tensormask.egg-info/SOURCES.txt
+tensormask.egg-info/dependency_links.txt
+tensormask.egg-info/top_level.txt
+tensormask/layers/__init__.py
+tensormask/layers/swap_align2nat.py
